@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kalopez0621
+- 👋 Hi, I’m Karla Lopez 
 - 👀 I’m interested in learning anything I can about Artificail Intelligence and Machine Learning.
 - 🌱 I’m currently learning Python Programming Course and working on getting my Associate in Science in Applied Artificial Intelligence.
 - 📫 How to reach me ... Kalopez0621@gmail.com
